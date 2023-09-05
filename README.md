@@ -22,3 +22,5 @@ idek why pressing what should be ~ gives me ¬, and what should be... wait, WHY 
   -=[]#;',./
   
   _+{}~:@<>?
+
+## it's because it was in "english (UK)" instead of "english (US)"
